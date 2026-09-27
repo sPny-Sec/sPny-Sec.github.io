@@ -1,6 +1,5 @@
 ---
 title: Cap - HackTheBox Writeup
-date: 2026-09-27 12:24:00 +0200
 categories: [HackTheBox, Linux, Privilege Escalation]
 tags: [idor, wireshark, ftp, ssh, capabilities, cve]
 image:
