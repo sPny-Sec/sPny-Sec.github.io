@@ -317,4 +317,4 @@ Service Discovery (Port 23) → CVE-2026-24061 Exploitation → Root Access
 
 ---
 
-*Last Updated: 2025-12-10*
+*Last Updated: 2026-27-09*
