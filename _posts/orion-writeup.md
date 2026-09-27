@@ -1,6 +1,5 @@
 ---
 title: Orion - HackTheBox Writeup
-date: 2025-12-10 11:50:00 +0100
 categories: [HackTheBox, Web, Privilege Escalation]
 tags: [craft-cms, cve-2025-46731, mysql, telnet, cve-2026-24061, metasploit]
 image:
